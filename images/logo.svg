@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Dog head -->
+    <circle cx="25" cy="25" r="20" fill="#4A90E2"/>
+    <!-- Dog ears -->
+    <path d="M10 15 Q15 5 20 15" stroke="#4A90E2" stroke-width="3" fill="none"/>
+    <path d="M40 15 Q45 5 50 15" stroke="#4A90E2" stroke-width="3" fill="none"/>
+    <!-- Dog eyes -->
+    <circle cx="18" cy="22" r="3" fill="white"/>
+    <circle cx="32" cy="22" r="3" fill="white"/>
+    <!-- Dog nose -->
+    <circle cx="25" cy="28" r="4" fill="#2C3E50"/>
+    <!-- Heart -->
+    <path d="M25 35 Q25 40 20 40 Q15 40 15 35 Q15 30 25 25 Q35 30 35 35 Q35 40 30 40 Q25 40 25 35" fill="#E74C3C"/>
+</svg> 
