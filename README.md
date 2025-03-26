@@ -102,11 +102,6 @@ Pratik Kumar
 
 Visit the live website at: [Tinder for Dogs](https://its-Pratik-15.github.io/tinder_for_dog)
 
-# TinDog Project
-
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
-
 ## SVGs:
 
 Apple Logo:
